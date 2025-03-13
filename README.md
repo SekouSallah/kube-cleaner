@@ -1,5 +1,3 @@
-Voici l'intégralité du `README.md` en français et en anglais. Ce format est conçu pour que tu puisses l'utiliser directement dans ton dépôt GitHub.
-
 ```markdown
 # kube-cleaner 🧹 | Nettoyeur intelligent pour Kubernetes
 
